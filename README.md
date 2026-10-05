@@ -82,25 +82,6 @@ Hans hosts **StudyByt3s**, covering networks, physical security, and cybersecuri
 
 Listen at [hans.study/studybyt3s/](https://hans.study/studybyt3s/) or search "StudyByt3s" on Apple Podcasts, Spotify, and YouTube.
 
-## Frequently asked
-
-**Who is this for?**
-Practitioners, integrators, and IT generalists working on systems that have to hold up in the field.
-
-**What does "boutique" mean?**
-Small-scale, high-specificity work. Not a 50-person firm. One person, specialized, on problems that don't fit a tidy category.
-
-**Where is Hans based?**
-Ontario, Canada. Work spans Canada and the United States.
-
-**What sectors?**
-Government, public safety, defense, critical infrastructure, healthcare, airports, and enterprise environments.
-
-**Can I use these tools commercially?**
-It depends on the repository. See the licence column under Repositories. Windows hardening is source-available and forbids redistribution; PortProof and cisco-switch-config are Apache-2.0; CPCSC scripts are MIT and the hub docs are CC BY 4.0. The free CPCSC guide is CC BY-ND 4.0 (share, including commercially; no modifications).
-
-**How do I get in touch?**
-Email contact@hans.study or use the form at [hans.study](https://hans.study). Press: media@hans.study. Books: book@hans.study.
 
 ## Contact and links
 
