@@ -52,7 +52,7 @@ Public GitHub work lives here. Browser tools stay on the site.
 
 Browser tools (workstation configurator, switch config audit, CIDR and conductor calculators, policy builder) are at [hans.study/tools](https://hans.study/tools/).
 
-Each repository's own LICENSE governs it. The S monogram and the Hans Study wordmark are not covered by any code licence; see [hans.study/brand](https://hans.study/brand/).
+Each repository's own LICENSE governs it. The S monogram and the Hans Study wordmark are not covered by any code licence.
 
 ## Topics
 
@@ -111,11 +111,8 @@ Email contact@hans.study or use the form at [hans.study](https://hans.study). Pr
 - **LinkedIn**: [linkedin.com/in/hans-study](https://linkedin.com/in/hans-study)
 - **X**: [x.com/studybyt3s](https://x.com/studybyt3s)
 - **YouTube**: [youtube.com/@studybyt3s](https://youtube.com/@studybyt3s)
-- **Reddit**: [reddit.com/u/hstudy](https://reddit.com/u/hstudy)
 - **Instagram**: [instagram.com/studybyt3s](https://instagram.com/studybyt3s)
 - **GitHub**: [github.com/hansstudy](https://github.com/hansstudy)
 - **Books**: [hans.study/books](https://hans.study/books/)
 - **Amazon Author**: [amazon.com/author/hans-study](https://www.amazon.com/author/hans-study)
-- **Brand assets**: [hans.study/brand](https://hans.study/brand/)
 
-Brand questions go to media@hans.study.
