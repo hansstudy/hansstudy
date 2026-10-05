@@ -94,7 +94,7 @@ Small-scale, high-specificity work. Not a 50-person firm. One person, specialize
 Ontario, Canada. Work spans Canada and the United States.
 
 **What sectors?**
-Government, public safety, defense, critical infrastructure, healthcare, airports, and enterprise environments. Official names keep their own spelling (for example, Department of National Defence).
+Government, public safety, defense, critical infrastructure, healthcare, airports, and enterprise environments.
 
 **Can I use these tools commercially?**
 It depends on the repository. See the licence column under Repositories. Windows hardening is source-available and forbids redistribution; PortProof and cisco-switch-config are Apache-2.0; CPCSC scripts are MIT and the hub docs are CC BY 4.0. The free CPCSC guide is CC BY-ND 4.0 (share, including commercially; no modifications).
